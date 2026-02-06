@@ -7,3 +7,10 @@ to support better sourcing decisions and supplier evaluations.
 
 The project is designed as an **end-to-end data analytics workflow**, starting from raw data profiling
 to KPI definition and dashboard-ready outputs.
+
+## 🎯 Business Objectives
+- Evaluate supplier performance based on delivered orders only
+- Separate **operational KPIs** from **process risk indicators**
+- Identify suppliers with high defect rates or unstable lead times
+- Detect procurement process issues through cancellation analysis
+- Provide actionable insights for supplier review and negotiation strategy
