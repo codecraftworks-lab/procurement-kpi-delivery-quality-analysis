@@ -24,3 +24,10 @@ to KPI definition and dashboard-ready outputs.
   - Purchase Order
   - Item Category
   - Delivery Status
+
+## 🧠 Analytical Approach
+
+### 1. Data Profiling
+- Dataset structure and completeness check
+- Identification of missing values and logical inconsistencies
+- Business interpretation of each column
