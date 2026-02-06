@@ -14,3 +14,13 @@ to KPI definition and dashboard-ready outputs.
 - Identify suppliers with high defect rates or unstable lead times
 - Detect procurement process issues through cancellation analysis
 - Provide actionable insights for supplier review and negotiation strategy
+
+## 📊 Dataset Description
+- Source: Procurement dataset (ERP-style simulation)
+- Format: CSV
+- Records: 777 purchase orders
+- Key entities:
+  - Supplier
+  - Purchase Order
+  - Item Category
+  - Delivery Status
